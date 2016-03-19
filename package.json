@@ -1,0 +1,17 @@
+{
+  "name": "node-mongo-assignment",
+  "version": "1.0.0",
+  "description": "An assignment on node and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "mongoose",
+    "mongoose-currency"
+  ],
+  "author": "Alex Tsiras",
+  "license": "ISC"
+}
